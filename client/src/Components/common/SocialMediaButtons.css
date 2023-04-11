@@ -1,0 +1,30 @@
+.social-media-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-buttons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 8px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #F3BF38;
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.social-media-buttons a:hover {
+  transform: scale(1.2);
+}
+
+.social-media-buttons img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+

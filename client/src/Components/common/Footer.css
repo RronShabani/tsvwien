@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  flex: 0 0 180px;
+  justify-content: center;
+  background-color: #333;
+  color: #F3BF38;
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.impressum {
+  text-align: center;
+}
+
