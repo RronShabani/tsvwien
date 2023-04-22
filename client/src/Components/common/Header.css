@@ -1,10 +1,18 @@
 .header {
 }
 
-.top-bar {
+.header-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 95%;
+  max-width: 1900px;
+  /* TODO: fix max width to 1900 but correct for padding */
+}
+
+.top-bar {
+  display: flex;
+  justify-content: center;
   background-color: #333;
   color: #fff;
   padding: 5px;
@@ -15,14 +23,6 @@
 .center-section {
   display: flex;
   align-items: center;
-}
-
-.left-section {
-  margin-left: 20px;
-}
-
-.right-section {
-  margin-right: 20px;
 }
 
 .left-section a,
@@ -37,10 +37,19 @@
 }
 
 .top-menu-page a{
-  color: #F3BF38;
+  color: #F0DDBF;
   transition: all 0.1s ease-in-out;
 }
 
 .top-menu-page a:hover {
   color: #fff;
+}
+
+@media (max-width: 767px) {
+  /* Styles for small screens */
+  .left-section,
+  .right-section,
+  .center-section {
+    font-size: 11px;
+  }
 }
