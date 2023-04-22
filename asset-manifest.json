@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d183e93.css",
-    "main.js": "/static/js/main.9b6a127f.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/about_img_2.jpg": "/static/media/about_img_2.c291132439877bf90a12.jpg",
-    "static/media/stammtisch-2.jpg": "/static/media/stammtisch-2.31799c76d1f12e615b6f.jpg",
-    "static/media/stammtisch-1.jpg": "/static/media/stammtisch-1.6891417c8caa56f050ff.jpg",
-    "static/media/instagram.svg": "/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
-    "index.html": "/index.html",
-    "static/media/facebook.svg": "/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
-    "main.7d183e93.css.map": "/static/css/main.7d183e93.css.map",
-    "main.9b6a127f.js.map": "/static/js/main.9b6a127f.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/tsvw/static/css/main.7d183e93.css",
+    "main.js": "/tsvw/static/js/main.28a44b73.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tsvw/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/about_img_2.jpg": "/tsvw/static/media/about_img_2.c291132439877bf90a12.jpg",
+    "static/media/stammtisch-2.jpg": "/tsvw/static/media/stammtisch-2.31799c76d1f12e615b6f.jpg",
+    "static/media/stammtisch-1.jpg": "/tsvw/static/media/stammtisch-1.6891417c8caa56f050ff.jpg",
+    "static/media/instagram.svg": "/tsvw/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
+    "index.html": "/tsvw/index.html",
+    "static/media/facebook.svg": "/tsvw/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
+    "main.7d183e93.css.map": "/tsvw/static/css/main.7d183e93.css.map",
+    "main.28a44b73.js.map": "/tsvw/static/js/main.28a44b73.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tsvw/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d183e93.css",
-    "static/js/main.9b6a127f.js"
+    "static/js/main.28a44b73.js"
   ]
 }
