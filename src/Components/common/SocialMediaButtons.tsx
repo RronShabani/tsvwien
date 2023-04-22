@@ -1,7 +1,6 @@
 import React from 'react';
 import './SocialMediaButtons.css';
 import facebookLogo from '../assets/facebook.svg';
-import twitterLogo from '../assets/twitter.svg';
 import instagramLogo from '../assets/instagram.svg';
 
 const SocialMediaButtons = () => {
