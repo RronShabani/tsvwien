@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d183e93.css",
-    "main.js": "/static/js/main.15baec80.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/about_img_2.jpg": "/static/media/about_img_2.c291132439877bf90a12.jpg",
-    "static/media/stammtisch-2.jpg": "/static/media/stammtisch-2.31799c76d1f12e615b6f.jpg",
-    "static/media/stammtisch-1.jpg": "/static/media/stammtisch-1.6891417c8caa56f050ff.jpg",
-    "static/media/instagram.svg": "/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
-    "index.html": "/index.html",
-    "static/media/facebook.svg": "/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
-    "main.7d183e93.css.map": "/static/css/main.7d183e93.css.map",
-    "main.15baec80.js.map": "/static/js/main.15baec80.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/tsvwien/static/css/main.7d183e93.css",
+    "main.js": "/tsvwien/static/js/main.5f25aef0.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tsvwien/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/about_img_2.jpg": "/tsvwien/static/media/about_img_2.c291132439877bf90a12.jpg",
+    "static/media/stammtisch-2.jpg": "/tsvwien/static/media/stammtisch-2.31799c76d1f12e615b6f.jpg",
+    "static/media/stammtisch-1.jpg": "/tsvwien/static/media/stammtisch-1.6891417c8caa56f050ff.jpg",
+    "static/media/instagram.svg": "/tsvwien/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
+    "index.html": "/tsvwien/index.html",
+    "static/media/facebook.svg": "/tsvwien/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
+    "main.7d183e93.css.map": "/tsvwien/static/css/main.7d183e93.css.map",
+    "main.5f25aef0.js.map": "/tsvwien/static/js/main.5f25aef0.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tsvwien/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d183e93.css",
-    "static/js/main.15baec80.js"
+    "static/js/main.5f25aef0.js"
   ]
 }
