@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://rronshabani.github.io/tsvwien",
+  "homepage": "http://www.tsv-wien.at",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "echo www.tsv-wien.at > ./build/CNAME && gh-pages -d build",
+    "deploy": "echo www.tsv-wien.at > ./build/CNAME &&gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
