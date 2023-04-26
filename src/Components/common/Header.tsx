@@ -1,5 +1,6 @@
 // import React from 'react'
 import "./Header.css"
+import { Link } from 'react-router-dom';
 import SocialMediaButtons from "./SocialMediaButtons"
 
 const Header = () => {
@@ -8,18 +9,17 @@ const Header = () => {
       <div className="header-content">
         <div className="left-section">
           <div className="top-menu-page">
-            <a href="/">
+            <Link to="/">
               <h2> Home </h2>
-            </a>
+            </Link>
           </div>
           <div className="top-menu-page">
-            <a href="/events">
+            <Link to="/events">
               <h2> Events </h2>
-            </a>
+            </Link>
           </div>
         </div>
         <div className="center-section">
-          Kleine Logo
         </div>
         <div className="right-section">
           <SocialMediaButtons />
