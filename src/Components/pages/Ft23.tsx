@@ -13,6 +13,7 @@ const Ft23 = () => {
 
   return (
     <div className="main">
+
       <div className="content-box">
         <div className="image-container">
           <img src={flunkyball_1} alt="Image" />
@@ -52,10 +53,9 @@ const Ft23 = () => {
       </div>
 
       <div className="content-box">
-        <div className="text-container">
-          <h2 className="title">Anmeldung</h2>
-          <div className="text"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffqDpKRos-JCAMNoL_X6tvZ2jpMyIYY-RobDgCIW5nSysSvA/viewform?embedded=true" width="100%" height="750px">Wird geladen…</iframe></div>
-        </div>
+        <a href="https://forms.gle/15PkScaGSd4zhEFE7" className="text-container registration-link">
+          <h2 className="title registration-link">Anmelden!</h2>
+        </a>
       </div>
 
     </div>

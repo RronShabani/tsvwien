@@ -23,7 +23,6 @@
   margin: 20px;
   width: 95%;
   max-width: 1900px;
-  max-height: contnent-box;
 }
 
 .image-container {
@@ -62,6 +61,12 @@
   font-weight: semi-bold;
   font-size: 23px;
   line-height: 1.2;
+}
+
+.registration-link {
+  text-align: center;
+  text-decoration: none; /* Remove underline from links */
+  margin: 0;
 }
 
 @media (max-width: 1100px) {
