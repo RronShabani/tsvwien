@@ -32,7 +32,7 @@ const Events = () => {
           <h2 className="title">{flunky_title}</h2>
           <p className="text">
             {flunky_body}
-            <Link to="/ft23">hier</Link>
+            <Link className="text" to="/ft23">hier</Link>
           </p>
         </div>
       </div>
