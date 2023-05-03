@@ -14,7 +14,7 @@ const about_title_2 = "Was machen wir?";
 const about_body_2 = "Der 1. Wiener Trinksportverein hat sich der Förderung des Trinksport und der Trinkkultur verschrieben. Dazu veranstalten wir Turniere, treffen uns zum regelmäßigen Stammtisch, organisieren Events, um die Trinkkultur zu erhalten, und halten Fortbildungen und Seminare ab. Und wir trainieren natürlich auch, um unsere trinksportlichen Fähigkeiten bei Wettkämpfen mit anderen zu messen. 😉";
 
 const mitmachen_title = "Mitmachen"
-const mitmachen_body = "Wir freuen uns immer über neue Mitglieder, die mithelfen wollen, den Trinksport zu supporten, trainieren oder auch einfach nur beim Stammtisch neue Beisln kennenlernen wollen. Unser Beitrittsformular findet ihr hier. Wenn ihr uns einmal persönlich treffen wollt, kommt am besten beim Stammtisch vorbei.Die Termine und Beisln, wo wir uns treffen, findet ihr auf Facebook.Gebt uns am besten vorher per Mail oder auf Facebook Bescheid."
+const mitmachen_body = "Wir freuen uns immer über neue Mitglieder, die mithelfen wollen, den Trinksport zu supporten, trainieren oder auch einfach nur beim Stammtisch neue Beisln kennenlernen wollen. Unser Beitrittsformular findet ihr hier. Wenn ihr uns einmal persönlich treffen wollt, kommt am besten beim Stammtisch vorbei. Die Termine und Beisln, wo wir uns treffen, findet ihr auf Facebook. Gebt uns am besten vorher per Mail oder auf Facebook Bescheid."
 
 const Home = () => {
   return (
