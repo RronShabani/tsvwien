@@ -7,7 +7,7 @@ import about_img_2 from "../assets/stammtisch-2.jpg"
 import mitmachen_img from "../assets/about_img_2.jpg"
 import logo from "../assets/logo.svg"
 
-const about_title = "Wer Sind Wir?";
+const about_title = "Wer sind wir?";
 const about_body = "Vor zwei Jahren fanden sich zwei Freunde bei einem (oder vielleicht auch mehr) Bier wieder, tranken, diskutierten – und stellten fest, dass der Trinksport in der österreichischen Sportlandschaft nicht den Stellenwert bekommt, den er bekommen sollte. Gedacht, getan – ein Verein wurde gegründet, um das zu ändern.\nMittlerweile sind aus den zwei Freunden mehr geworden, der 1. Wiener Trinksportverein wächst und wächst und besteht aus einer kleinen Truppe, die sich einem Ziel verschrieben hat: Make Trinksport great again!";
 
 const about_title_2 = "Was machen wir?";

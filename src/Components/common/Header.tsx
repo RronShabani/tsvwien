@@ -18,6 +18,11 @@ const Header = () => {
               <h2> Events </h2>
             </Link>
           </div>
+          <div className="top-menu-page">
+            <Link to="/ft23">
+              <h2> Flunkyballturnier </h2>
+            </Link>
+          </div>
         </div>
         <div className="center-section">
         </div>
