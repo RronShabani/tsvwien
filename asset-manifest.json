@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.734588ca.css",
-    "main.js": "/static/js/main.0f9a583e.js",
+    "main.css": "/static/css/main.a6959b3a.css",
+    "main.js": "/static/js/main.f13917ff.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/about_img_2.jpg": "/static/media/about_img_2.c291132439877bf90a12.jpg",
     "static/media/flunkyball_2.jpg": "/static/media/flunkyball_2.d36f8681c2e4b4787048.jpg",
     "static/media/flunkyball_1.jpg": "/static/media/flunkyball_1.cd9fd73fdb022da8553e.jpg",
+    "static/media/flunkyball_3.jpg": "/static/media/flunkyball_3.69620c7e8c59b975071b.jpg",
     "static/media/stammtisch-2.jpg": "/static/media/stammtisch-2.31799c76d1f12e615b6f.jpg",
     "static/media/stammtisch-1.jpg": "/static/media/stammtisch-1.6b134c1a8879d8b5bfc1.jpg",
     "static/media/instagram.svg": "/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
-    "main.734588ca.css.map": "/static/css/main.734588ca.css.map",
-    "main.0f9a583e.js.map": "/static/js/main.0f9a583e.js.map",
+    "main.a6959b3a.css.map": "/static/css/main.a6959b3a.css.map",
+    "main.f13917ff.js.map": "/static/js/main.f13917ff.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.734588ca.css",
-    "static/js/main.0f9a583e.js"
+    "static/css/main.a6959b3a.css",
+    "static/js/main.f13917ff.js"
   ]
 }
