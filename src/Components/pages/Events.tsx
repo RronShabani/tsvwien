@@ -17,12 +17,10 @@ const Events = () => {
         <div className="text-container">
           <h2 className="title">{termine}</h2>
           <div className="text">
-            <ul>
-              <li>jeder 1. Donnerstag im Monat: Stammtisch ab 18:00</li>
-              <li>15. April: Silent Drinking – Vortrag & Workshop mit Mag. Lidauer</li>
-              <li>3. Juni: Flunkyball-Turnier, Donauinsel Wien, Start 13:00</li>
-              <li>16. September: Weinwandertag</li>
-            </ul>
+              jeder 1. Donnerstag im Monat: Stammtisch ab 18:00<br /><br />
+              3. Juni: Flunkyball-Turnier, Donauinsel Wien, Start 13:00<br /><br />
+              16. September: Weinwandertag<br /><br />
+              TBA: Silent Drinking – Vortrag & Workshop<br /><br />
           </div>
         </div>
       </div>

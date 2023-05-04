@@ -20,7 +20,7 @@ const Header = () => {
           </div>
           <div className="top-menu-page">
             <Link to="/ft23">
-              <h2> Flunkyballturnier </h2>
+              <h2> Flunkyball-Turnier </h2>
             </Link>
           </div>
         </div>
