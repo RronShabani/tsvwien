@@ -41,11 +41,11 @@ const Ft23 = () => {
               <li>Wo: <a className="text" href="https://goo.gl/maps/dLVSmNs8NYoj15tZ6">Donauinsel Wien, nähe Station Floridsdorfer Brücke</a></li>
               <li>Teamgröße: 3-6 Spieler</li>
               <li>Teilnehmer: max. 16 Teams</li>
-              <li>Startgeld: 6€ pro Person</li>
+              <li>Startgeld: 6€ pro Person, Spielbier inklusive!</li>
               <li>Mindestalter: 18 Jahre</li>
               <li>Spiele: 2-5 Spiele pro Team</li>
               <li>Spielgetränk: Ottakringer 0,5L</li>
-							<li><a className="text" href="https://raw.githubusercontent.com/Sellarus/sellarus.github.io/main/regeln.pdf">Regelwerk</a></li>
+              <li><a className="text" href="https://raw.githubusercontent.com/Sellarus/sellarus.github.io/main/regeln.pdf">Regelwerk</a></li>
             </ul>
           </div>
         </div>
