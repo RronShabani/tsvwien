@@ -2,8 +2,8 @@
 // import PropTypes from 'prop-types'
 // import ContentBlock from '../common/ContentBlock'
 import '../common/ContentBlock.css'
-import about_img from "../assets/stammtisch-1.jpg"
-import about_img_2 from "../assets/stammtisch-2.jpg"
+import about_img from "../assets/flunkyball_2.jpg"
+import about_img_2 from "../assets/flunkyball_1.jpg"
 import mitmachen_img from "../assets/about_img_2.jpg"
 import logo from "../assets/logo.svg"
 
