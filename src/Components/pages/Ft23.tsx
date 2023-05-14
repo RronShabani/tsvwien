@@ -45,6 +45,7 @@ const Ft23 = () => {
               <li>Mindestalter: 18 Jahre</li>
               <li>Spiele: 2-5 Spiele pro Team</li>
               <li>Spielgetränk: Ottakringer 0,5L</li>
+							<li><a className="text" href="https://raw.githubusercontent.com/Sellarus/sellarus.github.io/main/regeln.pdf">Regelwerk</a></li>
             </ul>
           </div>
         </div>
