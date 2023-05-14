@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.a6959b3a.css",
-    "main.js": "/static/js/main.252069fc.js",
+    "main.js": "/static/js/main.93ab06fc.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/about_img_2.jpg": "/static/media/about_img_2.c291132439877bf90a12.jpg",
     "static/media/flunkyball_2.jpg": "/static/media/flunkyball_2.d36f8681c2e4b4787048.jpg",
     "static/media/flunkyball_1.jpg": "/static/media/flunkyball_1.cd9fd73fdb022da8553e.jpg",
     "static/media/flunkyball_3.jpg": "/static/media/flunkyball_3.69620c7e8c59b975071b.jpg",
+    "static/media/logo.png": "/static/media/logo.6f1347065d41c636e275.png",
     "static/media/instagram.svg": "/static/media/instagram.f27975ed9795f4276da03b8ce477e94a.svg",
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.6fc3d3423fd45b88d6abe22349693edd.svg",
     "main.a6959b3a.css.map": "/static/css/main.a6959b3a.css.map",
-    "main.252069fc.js.map": "/static/js/main.252069fc.js.map",
+    "main.93ab06fc.js.map": "/static/js/main.93ab06fc.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6959b3a.css",
-    "static/js/main.252069fc.js"
+    "static/js/main.93ab06fc.js"
   ]
 }
